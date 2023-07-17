@@ -3,7 +3,7 @@ demo/node_modules
 demo/.vscode
 .idea
 .DS_Store
-dist
+#dist
 dist-ssr
 *.local
 docs/.vuepress/.cache
