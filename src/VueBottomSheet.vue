@@ -2,6 +2,7 @@
   <Teleport to="body">
     <div
       ref="bottomSheet"
+      v-bind="$attrs"
       :class="[
         'bottom-sheet',
         {
